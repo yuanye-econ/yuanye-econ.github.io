@@ -12,7 +12,8 @@ My research interest includes health economics, development economics, and envir
 - Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), 1st **R&R** at ***Journal of Development Economics***, received, 20 Feb 2024.
 - The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi)，1st **R&R** at ***Journal of Industrial Economics***, received, 2 July 2024.
 - A farmer's odyssey in environmental adversity: Air pollution and rural agriculture in China (with Qunfeng Wu and Yakun Chen), under review.
-- Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), submitted.
+- Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), under review.
+- Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang), under review.
 
 
 
@@ -21,7 +22,6 @@ My research interest includes health economics, development economics, and envir
 
 - Air pollution and quality of life
 - Physician as patient
-- Attention and insurance
 - Media and policy
 - Poverty alleviation and social well-being       
 - Intergenerational effect of public education
