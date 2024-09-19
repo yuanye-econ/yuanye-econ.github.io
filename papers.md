@@ -8,7 +8,6 @@ My research interest includes health economics, development economics, and envir
 
 ## Working papers
 
-- The quiet revolution: The send-down movement and female empowerment in rural China (with Wenyi Lu and Chong Liu), 2nd **R&R** at ***Journal of Development Economics***, submitted, 13 August 2024.
 - Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang), 1st **R&R** at ***Journal of Development Economics***, received, 20 Feb 2024.
 - The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi)，1st **R&R** at ***Journal of Industrial Economics***, received, 2 July 2024.
 - A farmer's odyssey in environmental adversity: Air pollution and rural agriculture in China (with Qunfeng Wu and Yakun Chen), under review.
@@ -33,6 +32,7 @@ My research interest includes health economics, development economics, and envir
 
 &nbsp;
 ## Publications & Forthcomings
+1. The quiet revolution: The send-down movement and female empowerment in rural China (with Wenyi Lu and Chong Liu), accepted, 2024, ***Journal of Development Economics***.
 1. [We've got you covered! The effect of public health insurance on rural entrepreneurship](https://www.sciencedirect.com/science/article/pii/S0047272724000860), (with Zhenggang Wang and Zenan Wu), 2024 (235), ***Journal of Public Economics***.
 1. [Health benefits from improved air quality: Evidence from the pollution regulations in China's “2+26” cities](https://rdcu.be/dDByL), (with Tingting Xie and Yong Wang), 2024, ***Environmental and Resource Economics***.
 1. [Love, health and robots: Automation, Migration, and Family Responses in Rural China](https://www.sciencedirect.com/science/article/pii/S1043951X24000348?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=76031217&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM454923&utm_source=AC_), (with Yaojing Wang and Ruini Zhu), 2024, (85): 102145, ***China Economic Review***.
