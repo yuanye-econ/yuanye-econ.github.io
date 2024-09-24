@@ -16,4 +16,4 @@ I am an assistant professor at the School of Economics at Peking University. If 
 
 ## Updates
 
-- In September 2024, my joint work with Chong Liu and Wenyi Lu, titled “The Quiet Revolution: Send-Down Movement and Female Empowerment in China,” is accepted by ***Journal of Development Economics***.
+- In September 2024, my joint work with Chong Liu and Wenyi Lu, titled [“The Quiet Revolution: Send-Down Movement and Female Empowerment in China,”](https://doi.org/10.1016/j.jdeveco.2024.103379) is accepted by ***Journal of Development Economics***.
