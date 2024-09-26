@@ -7,7 +7,7 @@ layout: default
 My research interest includes health economics, development economics, and environmental economics.
 
 ## Publications & Forthcomings
-1. [The quiet revolution: The send-down movement and female empowerment in rural China](https://doi.org/10.1016/j.jdeveco.2024.103379) (with Wenyi Lu and Chong Liu), accepted, 2024, ***Journal of Development Economics***.
+1. [The quiet revolution: The send-down movement and female empowerment in rural China](https://doi.org/10.1016/j.jdeveco.2024.103379) (with Wenyi Lu and Chong Liu), 2025 (172): 103379, ***Journal of Development Economics***.
 1. [We've got you covered! The effect of public health insurance on rural entrepreneurship](https://www.sciencedirect.com/science/article/pii/S0047272724000860), (with Zhenggang Wang and Zenan Wu), 2024 (235), ***Journal of Public Economics***.
 1. [Health benefits from improved air quality: Evidence from the pollution regulations in China's “2+26” cities](https://rdcu.be/dDByL), (with Tingting Xie and Yong Wang), 2024, ***Environmental and Resource Economics***.
 1. [Love, health and robots: Automation, Migration, and Family Responses in Rural China](https://www.sciencedirect.com/science/article/pii/S1043951X24000348?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=76031217&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM454923&utm_source=AC_), (with Yaojing Wang and Ruini Zhu), 2024, (85): 102145, ***China Economic Review***.
