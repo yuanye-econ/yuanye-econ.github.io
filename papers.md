@@ -6,7 +6,11 @@ layout: default
 ---
 My research interest includes health economics, development economics, and environmental economics.
 
+&nbsp;
 ## Publications & Forthcomings
+
+2024
+---
 1. Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang).
    * ***Journal of Development Economics***, forthcoming, October 2024.
 1. [The quiet revolution: The send-down movement and female empowerment in rural China](https://www.sciencedirect.com/science/article/abs/pii/S0304387824001287) (with Wenyi Lu and Chong Liu).
@@ -17,6 +21,9 @@ My research interest includes health economics, development economics, and envir
    * ***Environmental and Resource Economics***, Volume 87, pages 1175–1221, (2024).
 1. [Love, health and robots: Automation, Migration, and Family Responses in Rural China](https://www.sciencedirect.com/science/article/pii/S1043951X24000348?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=76031217&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM454923&utm_source=AC_), (with Yaojing Wang and Ruini Zhu). 
    * ***China Economic Review***, 2024, (85): 102145.
+
+2023
+---
 1. [Early childhood SARS experience leads to long-lasting impacts on adulthood mental health in China](https://www.nature.com/articles/s41598-023-49970-w), (with Litian Chen, Chao Yang, and Tingting Xie). 
    * ***Scientific Reports***, 2023, 13: 22572.
 1. [Air pollution kills competition: Evidence from ESports](https://www.sciencedirect.com/science/article/pii/S0095069623001043) (with Jiawei Mo and Zenan Wu). 
@@ -29,6 +36,9 @@ My research interest includes health economics, development economics, and envir
    * ***Journal of Comparative Economics***, 2023, 51(4), pp.1142-1161.
 1. [The consequences of health shocks on households: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X23000548?via%3Dihub) (with Zhenjie Jin and Yajie Wang).
    * ***China Economic Review***, (2023): 101969.
+
+2022 and Earlier
+---
 1. [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.).
    * ***BMC Health Service Research***, (2022) 22:912.
 1. [Differential responses to market competition by private and public hospitals in China: a longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0140673619323736), (with Junjian Yi, and Shaoyang Zhao).
@@ -46,8 +56,6 @@ My research interest includes health economics, development economics, and envir
 - A farmer's odyssey in environmental adversity: Air pollution and rural agriculture in China (with Qunfeng Wu and Yakun Chen), under review.
 - Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), under review.
 - Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang), under review.
-
-
 
 &nbsp;
 ## Working in Progress
