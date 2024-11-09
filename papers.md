@@ -10,7 +10,7 @@ My research interest includes health economics, development economics, and envir
 
 ### 2024
 1. Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang).
-   * ***Journal of Development Economics***, forthcoming, October 2024.
+   * $\color{blue}{Journal\ of\ Development\ Economics}$, accepted, October 2024.
 1. [The quiet revolution: The send-down movement and female empowerment in rural China](https://www.sciencedirect.com/science/article/abs/pii/S0304387824001287) (with Wenyi Lu and Chong Liu).
    * ***Journal of Development Economics***, 2024 (235).
 1. [We've got you covered! The effect of public health insurance on rural entrepreneurship](https://www.sciencedirect.com/science/article/pii/S0047272724000860), (with Zhenggang Wang and Zenan Wu).
