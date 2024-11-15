@@ -52,6 +52,7 @@ My research interest includes health economics, development economics, and envir
 - A farmer's odyssey in environmental adversity: Air pollution and rural agriculture in China (with Qunfeng Wu and Yakun Chen), under review.
 - Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), under review.
 - Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang), under review.
+- Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), under review.
 
 &nbsp;
 ## Working in Progress
