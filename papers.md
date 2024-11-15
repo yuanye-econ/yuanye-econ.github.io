@@ -58,14 +58,13 @@ My research interest includes health economics, development economics, and envir
 ## Working in Progress
 
 - Air pollution and quality of life
-- Physician as patient
+- Attention and disease management
 - Media and policy
 - Poverty alleviation and social well-being       
 - Intergenerational effect of public education
 - Education and quality of life
 - Distributional effect of public insurance
 - Social insurance and agriculture
-- Learning in healthcare
 - Rain and strategic emissions
 
 
