@@ -10910,15 +10910,16 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 /* Media query for mobile screens */
-
-@media (max-width: 768px) {
-
-  body {
-
-    font-size: 14px; /* Smaller font size for mobile */
-
-  }
-
+html {
+	background-color: #e9eef2;
+/* Reset to 10px base for easy font sizing. */
+	font-size: 62.5%;
+}
+/* Set Retina font-size to browser default. */
+@media screen and (min-resolution: 160dpi) {
+	html {
+	font-size: 71.43%;
+	}
 }
 
 
