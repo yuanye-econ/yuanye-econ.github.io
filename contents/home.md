@@ -1,11 +1,6 @@
-#### Work:
-- Assistant professor, [School of Economics](https://econ.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), since 2019.
-- Lecturer, Department of Economics, National University of Singapore, 2017-2019.
-- Associate editor, *Journal of Asian Economics*, since 2025.
+I am an assistant professor at [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). Prior to my current employment, I worked as a lecturer in the Department of Economics at the National University of Singapore. I also serve as an associate editor for the *Journal of Asian Economics* since 2025.
 
-#### Education:
-- Ph.D. in Economics, National University of Singapore, 2012-2017.  
-- B.S. in Applied Math, National University of Singapore, 2008-2012.  
+I received my Ph.D. in Economics at the National University of Singapore in 2017 and a B.S. in Applied Mathematics at the National University of Singapore in 2012.  
 
 You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-public.pdf">CV here</a>.
 
