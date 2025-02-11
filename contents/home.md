@@ -1,6 +1,5 @@
 #### Work:
 - Assistant professor, [School of Economics](https://econ.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), since 2019.
-- Researcher, [Institute for Global Health and Development](https://www.ghd.pku.edu.cn/English/index.htm), Peking University, since 2019.
 - Lecturer, Department of Economics, National University of Singapore, 2017-2019.
 - Associate editor, *Journal of Asian Economics*, since 2025.
 
