@@ -1,13 +1,22 @@
-I am an assistant professor at the [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). I am affiliated with the [Institute for Global Health and Development](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/Y_fe5100f8d50a4875a92ad8991380a172/YUANYe/index.blk.htm) at Peking University. I also serve as an associate editor for the *Journal of Asian Economics*. I received my Ph.D. in Economics from the National University of Singapore.  
+#### Work:
+- Assistant professor, [School of Economics](https://econ.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), since 2019.
+- Researcher, [Institute for Global Health and Development](https://www.ghd.pku.edu.cn/English/index.htm), Peking University, since 2019.
+- Lecturer, Department of Economics, National University of Singapore, 2017-2019.
+- Associate editor, *Journal of Asian Economics*, since 2025.
+
+#### Education:
+- Ph.D. in Economics, National University of Singapore, 2017.  
+- B.A. in Applied Math, National University of Singapore, 2012.  
 
 You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-public.pdf">CV here</a>.
 
-#### Email 
-yuanye.econ[at]pku.edu.cn
+#### Research interest:
+- Health Economics
+- Development Economics
+- Environmental Economics
 
-#### Research interest
-- Health economics
-- Development economics
-- Environmental economics
-
+#### Contact: 
+- Email: yuanye.econ@pku.edu.cn
+- Office: (+86) 010-62769539
+- Address: Room 431, School of Economics, Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China.
 
