@@ -1,5 +1,3 @@
-My research interest includes health economics, development economics, and environmental economics.
-
 ## Working papers
 
 - The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi)，1st R&R at *Journal of Industrial Economics*.
