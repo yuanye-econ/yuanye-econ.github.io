@@ -10914,7 +10914,7 @@ footer a:hover, footer a:active, footer a:focus {
 /* Set Retina font-size to browser default. */
 @media screen and (min-resolution: 160dpi) {
 	html {
-	font-size: 71.43%;
+	font-size: 80%;
 	}
 }
 
