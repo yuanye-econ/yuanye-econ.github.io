@@ -4,8 +4,8 @@
 - Associate editor, *Journal of Asian Economics*, since 2025.
 
 #### Education:
-- Ph.D. in Economics, National University of Singapore, 2017.  
-- B.A. in Applied Math, National University of Singapore, 2012.  
+- Ph.D. in Economics, National University of Singapore, 2012-2017.  
+- B.S. in Applied Math, National University of Singapore, 2008-2012.  
 
 You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-public.pdf">CV here</a>.
 
