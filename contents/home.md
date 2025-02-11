@@ -1,16 +1,12 @@
+![Researcher Portrait](photo-github-tiny.jpg "YUAN Ye")
 
+I am an assistant professor at the School of Economics at Peking University. 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### Email 
+yuanye.econ[at]pku.edu.cn
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Research interest
+- Health economics
+- Development economics
+- Environmental economics
 
