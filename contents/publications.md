@@ -39,15 +39,5 @@ My research interest includes health economics, development economics, and envir
 1. [The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China](https://www.sciencedirect.com/science/article/pii/S1043951X15001145), (with Wei Ha, Junjian Yi, and Junsen Zhang). *China Economic Review*, 2016, Volume 37, pp 27-39.
 1. [Cost-effectiveness of medical migration for chronic kidney disease: A national study in China](https://pubmed.ncbi.nlm.nih.gov/35831849/) (with Yumeng Ao, Chao Yang, et al.). *BMC Health Service Research*, (2022) 22:912.
 
-## Conference presentations
-
-- 2024 China Meeting of the Econometric Society, June 2024, Hangzhou, China
-- 2023 Asian Meeting of the Econometric Society, July 2023, Singapore
-- 15th iHEA World Congress on Health Economics, July 2023, Cape Town, South Africa
-- 2022 Asian Meeting of the Econometric Society, June 2022, Shenzhen, China
-- AASLE 2021 Conference, December 2021, Beijing, China 
-- 14th iHEA World Congress on Health Economics, July 2021, Online
-- The Lancet-CAMS Health Summit, October 2019, Sichuan, China
-- 13th iHEA World Congress on Health Economics, July 2019, Basel, Switzerland
 
 
