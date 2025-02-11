@@ -10912,7 +10912,7 @@ footer a:hover, footer a:active, footer a:focus {
 /* Media query for mobile screens */
 
 /* Set Retina font-size to browser default. */
-@media screen and (min-resolution: 160dpi) {
+@media screen and (max-width: 640px) {
 	html {
 	font-size: 80%;
 	}
