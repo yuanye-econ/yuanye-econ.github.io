@@ -1,3 +1,4 @@
+
 ## Working papers
 
 - The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi)，1st R&R at *Journal of Industrial Economics*.
@@ -7,6 +8,7 @@
 - Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), under review.
 - Rainfall and Strategic Emissions (with Runhao Zhao), under review.
 - Aging in Haze (with Runhao Zhao, Chong Liu, and Junjian Yi), under review.
+
 
 ## Working in Progress
 
@@ -18,6 +20,7 @@
 - Education and quality of life
 - Distributional effect of public insurance
 - Social insurance and agriculture
+
 
 ## Publications & Forthcomings
 
