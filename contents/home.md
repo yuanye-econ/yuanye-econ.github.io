@@ -1,4 +1,4 @@
-I am an assistant professor at [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). Prior to my current employment, I worked as a lecturer in the Department of Economics at the National University of Singapore. I also serve as an associate editor for the *Journal of Asian Economics* since 2025.
+I am an assistant professor at [School of Economics](https://econ.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). I am affiliated with the Institute for Global Health and Development at Peking University. I also serve as an associate editor for the *Journal of Asian Economics* since 2025.
 
 I received my Ph.D. in Economics at the National University of Singapore in 2017 and my B.S. in Applied Mathematics at the National University of Singapore in 2012.  
 
