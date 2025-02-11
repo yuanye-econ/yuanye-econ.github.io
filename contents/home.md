@@ -8,4 +8,4 @@ yuanye.econ[at]pku.edu.cn
 - Development economics
 - Environmental economics
 
-<a href="https://yuanye-econ.github.io/research/CV-YuanYe-public.pdf">CV here</a>.
+<a href="static/assets/CV-YuanYe-public.pdf">CV here</a>.
