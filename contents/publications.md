@@ -1,12 +1,12 @@
 
 ## Working papers
 
-- The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi)，1st R&R at *Journal of Industrial Economics*.
+- The effect of information and streamlined appointments on patient sorting and hospital efficiency (with Changcheng Song, Nan Yang, and Junjian Yi)，R&R at *Journal of Industrial Economics*.<details><summary><strong>Abstract</strong></summary><h5> How do the provision of information and consumer choices affect market efficiency in a market with misallocation and rationing? We investigate the introduction of a mobile-phone-based outpatient appointment app that provides real-time hospital information and streamlines appointment booking in China's public hospital market. We find the app can significantly improve the efficiency of hospital appointment utilization and healthcare quality, achieved through facilitating patient sorting over time and across hospitals based on medical needs. Patients with mild conditions are directed to primary-care facilities, while acute-care hospitals are better able to serve patients with severe conditions. We also observe improved patient health outcomes and reduced medical cost. Our findings underscore the power of lightweight healthcare IT innovations in enhancing hospital resource management and patient welfare. </h5></details>
 - A Farmer’s Odyssey: Environmental Adversity, Productivity, and Adaptive Strategies (with Qunfeng Wu and Yakun Chen), under review.
 - Keeping up with the Joneses: FDI inflow and local industrial emissions (with Jiawei Mo and Zhe Zhang), under review.
 - Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang), under review.
 - Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), under review.
-- Rainfall and Strategic Emissions (with Runhao Zhao), under review.
+- Strategic Emissions in the Rain (with Runhao Zhao), under review.
 - Aging in Haze (with Runhao Zhao, Chong Liu, and Junjian Yi), under review.
 
 
