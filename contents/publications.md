@@ -24,7 +24,7 @@
 
 ## Publications & Forthcomings
 
-1. Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang). **Journal of Development Economics**, 2025, 172: 103399. [Link here](https://authors.elsevier.com/sd/article/S0304-3878(24)00148-2)
+1. Cover more for less: Targeted drug coverage, chronic disease management, and medical spending (with Julie Shi and Wanyu Yang). **Journal of Development Economics**, 2025, 172: 103399. [Link here](https://authors.elsevier.com/sd/article/S0304-3878(24)00148-2)<details><summary><strong>Abstract</strong></summary> some text here </details>
 1. The quiet revolution: The send-down movement and female empowerment in rural China (with Wenyi Lu and Chong Liu). **Journal of Development Economics**, 2025, 172: 103379. [Link here](https://www.sciencedirect.com/science/article/abs/pii/S0304387824001287)
 1. We've got you covered! The effect of public health insurance on rural entrepreneurship (with Zhenggang Wang and Zenan Wu). **Journal of Public Economics**, 2024, 235: 105150. [Link here](https://www.sciencedirect.com/science/article/pii/S0047272724000860)
 1. Health benefits from improved air quality: Evidence from the pollution regulations in China's “2+26” cities (with Tingting Xie and Yong Wang). **Environmental and Resource Economics**, Volume 87, pages 1175–1221, (2024). [Link here](https://rdcu.be/dDByL)
