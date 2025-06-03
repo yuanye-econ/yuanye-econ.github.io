@@ -12,6 +12,7 @@
 ## Working in Progress
 
 - Crypto and environment
+- LoL and tournament
 - Attention and disease management
 - Attention and regulation
 - Media and policy
@@ -20,6 +21,7 @@
 - Education and quality of life
 - Distributional effect of public insurance
 - Social insurance and agriculture
+- Parenting style
 
 
 ## Publications & Forthcomings
