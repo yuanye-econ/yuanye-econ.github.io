@@ -3,10 +3,11 @@
 
 - Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), **R&R**.
 - Strategic Emissions in the Rain (with Runhao Zhao), **R&R**.
-- FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang).
-- Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
+- Aging in Haze (with Runhao Zhao, Chong Liu, and Junjian Yi), **R&R**.
+- Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang).
+- Mind Your Own Health:  Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
 - A Farmer’s Odyssey: Environmental Adversity, Productivity, and Adaptations (with Qunfeng Wu and Yakun Chen).
-- Aging in Haze (with Runhao Zhao, Chong Liu, and Junjian Yi).
+
 
 
 ## Working in Progress
