@@ -7,7 +7,7 @@
 - Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang).
 - Mind Your Own Health:  Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
 - A Farmer’s Odyssey: Environmental Adversity, Productivity, and Adaptations (with Qunfeng Wu and Yakun Chen).
-- Greetings, comrades! Mass media and policy effectiveness in China (with Fan Zhang).
+- Greetings, Comrades! Mass Media and Policy Delivery in 1980s China (with Fan Zhang).
 
 
 
