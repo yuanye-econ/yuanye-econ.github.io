@@ -7,6 +7,7 @@
 - Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang).
 - Mind Your Own Health:  Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
 - A Farmer’s Odyssey: Environmental Adversity, Productivity, and Adaptations (with Qunfeng Wu and Yakun Chen).
+- Greetings, comrades! Mass media and policy effectiveness in China (with Fan Zhang).
 
 
 
@@ -16,7 +17,6 @@
 - LoL and tournament
 - Attention and disease management
 - Attention and regulation
-- Media and policy
 - Poverty alleviation and social well-being       
 - Intergenerational effect of public education
 - Education and quality of life
