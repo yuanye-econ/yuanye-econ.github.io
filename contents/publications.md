@@ -8,12 +8,11 @@
 - Mind Your Own Health:  Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
 - A Farmer’s Odyssey: Environmental Adversity, Productivity, and Adaptations (with Qunfeng Wu and Yakun Chen).
 - Greetings, Comrades! Mass Media and Policy Delivery in 1980s China (with Fan Zhang).
-
+- A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
 
 
 ## Working in Progress
 
-- Crypto and environment
 - LoL and tournament
 - Attention and disease management
 - Attention and regulation
