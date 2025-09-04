@@ -5,8 +5,8 @@
 - Strategic Emissions in the Rain (with Runhao Zhao), **R&R**.
 - Aging in Haze (with Runhao Zhao, Chong Liu, and Junjian Yi), **R&R**.
 - Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang).
-- Mind Your Own Health:  Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
-- A Farmer’s Odyssey: Environmental Adversity, Productivity, and Adaptations (with Qunfeng Wu and Yakun Chen).
+- Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
+- Rural Adaptations to Ambient Pollution in China (with Qunfeng Wu and Yakun Chen).
 - Greetings, Comrades! Mass Media and Policy Delivery in 1980s China (with Fan Zhang).
 - A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
 
