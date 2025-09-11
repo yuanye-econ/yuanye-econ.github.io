@@ -9,14 +9,14 @@
 - Rural Adaptations to Ambient Pollution in China (with Qunfeng Wu and Yakun Chen).
 - Greetings, Comrades! Mass Media and Policy Delivery in 1980s China (with Fan Zhang).
 - A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
+- A Second Chance? Theory and Evidence on Elimination Tournaments (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
 
 
 ## Working in Progress
 
-- LoL and tournament
 - Attention and disease management
 - Attention and regulation
-- Poverty alleviation and social well-being       
+- Poverty alleviation and well-being       
 - Intergenerational effect of public education
 - Education and quality of life
 - Distributional effect of public insurance
