@@ -7,9 +7,10 @@
 - Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang).
 - Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang).
 - Rural Adaptations to Ambient Pollution in China (with Qunfeng Wu and Yakun Chen).
-- Greetings, Comrades! Mass Media and Policy Delivery in 1980s China (with Fan Zhang).
+- Greetings, Comrades! Mass Media and Policy Delivery in China (with Fan Zhang).
 - A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
 - A Second Chance? Theory and Evidence on Elimination Tournaments (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
+- Welfare after the End of Welfare Progarm (with Zhengwen Liu and Chen Zhuang).
 
 
 ## Working in Progress
