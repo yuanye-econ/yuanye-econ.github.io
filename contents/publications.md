@@ -12,17 +12,6 @@
 - Welfare after the End of Welfare Program (with Zhengwen Liu and Chen Zhuang).
 
 
-## Working in Progress
-
-- Attention and disease management
-- Attention and regulation
-- Poverty alleviation and well-being       
-- Intergenerational effect of public education
-- Education and quality of life
-- Distributional effect of public insurance
-- Social insurance and agriculture
-- Parenting style
-
 
 ## Publications & Forthcomings
 1. Aging in Haze (with Runhao Zhao, Chong Liu, and Junjian Yi), January 2026,  **Journal of Development Economics**. [Link here](https://authors.elsevier.com/a/1mOtF15DRGBkZ0)<details><summary><strong>Abstract</strong></summary><h5>We study how the environment shapes aging. Leveraging a natural experiment in China where coal-powered winter heating caused persistently higher levels of particulate matters (PMs) north of a policy boundary for over three decades, we find that prolonged PM exposure accelerates aging beyond the biological age, leading to higher rates of multiple chronic conditions, functional disabilities, and cognitive decline in the working-age population. These effects were dormant in the early adulthood, emerged and developed rapidly in age 40s to 50s, and persisted long after exposure ends. Older cohorts experience faster and more enduring aging effects than younger ones under the same exposure, indicating greater life-cycle vulnerability to pollution-induced aging. We highlight that sustained PM exposure accelerates aging and exacerbates physical and cognitive decline in the working-age population.</h5></details>
@@ -42,15 +31,4 @@
 1. The glorified mothers of sons: Evidence from sex composition and parental time allocation in rural China (with Yi Fan, Junjian Yi, and Junsen Zhang). **Journal of Economic Behavior and Organization**, 2018 (145), 249-260. [Link here](https://www.sciencedirect.com/science/article/pii/S0167268117303165)
 1. The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China (with Wei Ha, Junjian Yi, and Junsen Zhang). **China Economic Review**, 2016, Volume 37, pp 27-39. [Link here](https://www.sciencedirect.com/science/article/pii/S1043951X15001145)
 1. Cost-effectiveness of medical migration for chronic kidney disease: A national study in China (with Yumeng Ao, Chao Yang, et al.). **BMC Health Service Research**, (2022) 22:912. [Link here](https://pubmed.ncbi.nlm.nih.gov/35831849/)
-
-## Conference presentations
-
-- 2024 China Meeting of the Econometric Society, June 2024, Hangzhou, China
-- 2023 Asian Meeting of the Econometric Society, July 2023, Singapore
-- 15th iHEA World Congress on Health Economics, July 2023, Cape Town, South Africa
-- 2022 Asian Meeting of the Econometric Society, June 2022, Shenzhen, China
-- AASLE 2021 Conference, December 2021, Beijing, China 
-- 14th iHEA World Congress on Health Economics, July 2021, Online
-- The Lancet-CAMS Health Summit, October 2019, Sichuan, China
-- 13th iHEA World Congress on Health Economics, July 2019, Basel, Switzerland
 
