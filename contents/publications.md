@@ -10,6 +10,7 @@
 - Ambient Pollution, Productivity, and Adaptations: Evidence from Rural China (with Qunfeng Wu and Yakun Chen).
 - Greetings, Comrades! Mass Media and Policy Delivery in China (with Fan Zhang).
 - Welfare after the End of Welfare Program (with Zhengwen Liu and Chen Zhuang).
+- Ecology versus Economy, or Both? Evidence from China's National Key Ecological Function Areas (with Yuhan Ou, Zenan Wu, and Tingting Xie).
 
 
 
