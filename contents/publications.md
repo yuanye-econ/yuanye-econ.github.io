@@ -9,7 +9,6 @@
 - Ambient Pollution, Productivity, and Adaptations: Evidence from Rural China (with Qunfeng Wu and Yakun Chen).
 - Greetings, Comrades! Mass Media and Policy Delivery in China (with Fan Zhang).
 - From Public Aid to Social Support: Welfare Dynamics After Exiting Anti-Poverty Campaign (with Zhengwen Liu, Yibo Wu, and Chen Zhuang).
-- Ecology versus Economy, or Both? Evidence from China's National Key Ecological Function Areas (with Yuhan Ou, Zenan Wu, and Tingting Xie)
 
 
 ## Publications & Forthcomings
