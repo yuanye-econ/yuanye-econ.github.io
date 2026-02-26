@@ -3,8 +3,8 @@
 
 - Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), **R&R**.
 - Risk Attention and Insurance Demand (with Jiawei Mo, Ruo Jia, Chang Zhang), **R&R**.
+- Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang), **R&R**.
 - Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
-- Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang).
 - A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
 - Ambient Pollution, Productivity, and Adaptations: Evidence from Rural China (with Qunfeng Wu and Yakun Chen).
 - Greetings, Comrades! Mass Media and Policy Delivery in China (with Fan Zhang).
