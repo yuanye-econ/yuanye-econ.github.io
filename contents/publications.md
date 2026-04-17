@@ -31,3 +31,4 @@
 1. The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China (with Wei Ha, Junjian Yi, and Junsen Zhang). **China Economic Review**, 2016, Volume 37, pp 27-39. [Link here](https://www.sciencedirect.com/science/article/pii/S1043951X15001145)
 1. Cost-effectiveness of medical migration for chronic kidney disease: A national study in China (with Yumeng Ao, Chao Yang, et al.). **BMC Health Service Research**, (2022) 22:912. [Link here](https://pubmed.ncbi.nlm.nih.gov/35831849/)
 
+![Visitors](https://hits.dwyl.com/yuanye-econ/yuanye-econ.github.io.svg)
