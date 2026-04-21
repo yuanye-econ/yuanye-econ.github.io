@@ -33,6 +33,6 @@
 
 <div align="right">
 
-Total visits in year {{ 'now' | date: "%Y" }}: ![Visits](https://api.visitorbadge.io/api/visitors?path=yuan_research_{{'now'|date:"%Y"}}&countColor=%23375a7f)
+![](https://api.visitorbadge.io/api/visitors?path=yuanye_econ_total&countColor=%23375a7f)
 
 </div>
