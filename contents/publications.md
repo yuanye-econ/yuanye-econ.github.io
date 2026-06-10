@@ -3,11 +3,11 @@
 
 - Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), **R&R**.
 - Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang), **R&R**.
+- From Public Aid to Social Support: Welfare Dynamics After Exiting Anti-Poverty Campaign (with Zhengwen Liu, Yibo Wu, and Chen Zhuang), **R&R**.
 - Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
 - A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
 - Ambient Pollution, Productivity, and Adaptations: Evidence from Rural China (with Qunfeng Wu and Yakun Chen).
 - Greetings, Comrades! Mass Media and Policy Delivery in China (with Fan Zhang).
-- From Public Aid to Social Support: Welfare Dynamics After Exiting Anti-Poverty Campaign (with Zhengwen Liu, Yibo Wu, and Chen Zhuang).
 
 
 ## Publications & Forthcomings
