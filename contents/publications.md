@@ -6,8 +6,10 @@
 - From Public Aid to Social Support: Welfare Dynamics After Exiting Anti-Poverty Campaign (with Zhengwen Liu, Yibo Wu, and Chen Zhuang), **R&R**.
 - Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
 - A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
-- Ambient Pollution, Productivity, and Adaptations: Evidence from Rural China (with Qunfeng Wu and Yakun Chen).
-- Greetings, Comrades! Mass Media and Policy Delivery in China (with Fan Zhang).
+- Pollution, Health, and Productive Adaptations among Smallholder Farmers in Rural China (with Qunfeng Wu and Yakun Chen).
+- Mass Media and Policy Delivery Efficiency: Evidence From China (with Fan Zhang).
+- Spatial Spillovers of Public Regulation: Evidence from China’s Retail Drug Market (with Julie Shi, Fanqi Shi, and Leiqiang Cui).
+- Ecology versus Economy, or Both? Evidence from China’s National Key Ecological Function Areas (with Yuhan Ou, Tingting Xie, and Zenan Wu).
 
 
 ## Publications & Forthcomings
