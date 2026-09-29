@@ -9,6 +9,7 @@
 - Mass Media and Policy Delivery Efficiency: Evidence From China (with Fan Zhang).
 - Spatial Spillovers of Public Regulation: Evidence from China’s Retail Drug Market (with Julie Shi, Fanqi Shi, and Leiqiang Cui).
 - Ecology versus Economy, or Both? Evidence from China’s National Key Ecological Function Areas (with Yuhan Ou, Tingting Xie, and Zenan Wu).
+- Bottom-top Reach and Fiscal Transfers in China (with Mai Wang and Ying Kang).
 
 
 ## Publications & Forthcomings
