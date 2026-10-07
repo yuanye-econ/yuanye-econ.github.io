@@ -1,17 +1,4 @@
 
-## Working papers
-
-- Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), **R&R**.
-- From Public Aid to Social Support: Welfare Dynamics After Exiting Anti-Poverty Campaign (with Zhengwen Liu, Yibo Wu, and Chen Zhuang), **R&R**.
-- Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
-- A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
-- Pollution, Health, and Productive Adaptations among Smallholder Farmers in Rural China (with Qunfeng Wu and Yakun Chen).
-- Mass Media and Policy Delivery Efficiency: Evidence From China (with Fan Zhang).
-- Spatial Spillovers of Public Regulation: Evidence from China’s Retail Drug Market (with Julie Shi, Fanqi Shi, and Leiqiang Cui).
-- Ecology versus Economy, or Both? Evidence from China’s National Key Ecological Function Areas (with Yuhan Ou, Tingting Xie, and Zenan Wu).
-- Bottom-top Reach and Fiscal Transfers in China (with Mai Wang and Ying Kang).
-
-
 ## Publications & Forthcomings
 1.  Keep up with the Joneses: FDI, Supply Chain Linkages, and Industrial Emissions (with Jiawei Mo and Zhe Zhang), December 2026, ***Journal of International Economics***. [Link here](https://www.sciencedirect.com/science/article/pii/S0022199626001339?via%3Dihub)<details><summary><strong>Abstract</strong></summary><h5>This study investigates whether and how foreign direct investment (FDI) influences local industrial emissions. Leveraging spatial and temporal variations in FDI inflows into China’s manufacturing sector during the 2000s, we find that an FDI entry within commuting distances reduces domestic firm’s sulfur dioxide emission intensity by 6.01% and that of other industrial pollutants by 3.3-5.4%. These emission reductions are driven by supply-chain interactions between FDI and domestic entities, independent of local regulations. Our findings offer insight to a market-driven greenification process via the supply chain and highlight positive environmental spillovers of FDI to developing countries.</h5></details>
 1.  Risk Attention and Insurance Uptake (with Ruo Jia, Jiawei Mo, Chang Zhang), April 2026, ***Journal of Risk and Insurance***. [Link here](https://onlinelibrary.wiley.com/doi/10.1111/jori.70053)<details><summary><strong>Abstract</strong></summary><h5>We examine risk attention as an overlooked driver of insurance uptake. We leverage the COVID-19 pandemic in China as a natural experiment---when all COVID-related expenses were covered by public funds and public attention shifted to the only major under-covered source of catastrophic medical spending: critical illnesses (CI). Using a unique private CI insurance dataset with both unbound insurance applications and bound contracts, we document a rise in bound insurance contracts and a disproportionately larger increase in unbound applications, particularly among lower-risk individuals. This surge reflects the increased interest and awareness of CI risks and insurance, as well as realized CI insurance uptake. We find robust evidence that the surge is driven by heightened attention to previously overlooked CI risks, and rule out competing explanations.</h5></details>
@@ -33,6 +20,20 @@
 1. The glorified mothers of sons: Evidence from sex composition and parental time allocation in rural China (with Yi Fan, Junjian Yi, and Junsen Zhang). ***Journal of Economic Behavior and Organization***, 2018 (145), 249-260. [Link here](https://www.sciencedirect.com/science/article/pii/S0167268117303165)
 1. The dynamic effect of rural-to-urban migration on inequality in source villages: System GMM estimates from rural China (with Wei Ha, Junjian Yi, and Junsen Zhang). ***China Economic Review***, 2016, Volume 37, pp 27-39. [Link here](https://www.sciencedirect.com/science/article/pii/S1043951X15001145)
 1. Cost-effectiveness of medical migration for chronic kidney disease: A national study in China (with Yumeng Ao, Chao Yang, et al.). ***BMC Health Service Research***, (2022) 22:912. [Link here](https://pubmed.ncbi.nlm.nih.gov/35831849/)
+
+
+## Working papers
+
+- Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), **R&R**.
+- From Public Aid to Social Support: Welfare Dynamics After Exiting Anti-Poverty Campaign (with Zhengwen Liu, Yibo Wu, and Chen Zhuang), **R&R**.
+- Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
+- A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
+- Pollution, Health, and Productive Adaptations among Smallholder Farmers in Rural China (with Qunfeng Wu and Yakun Chen).
+- Mass Media and Policy Delivery Efficiency: Evidence From China (with Fan Zhang).
+- Spatial Spillovers of Public Regulation: Evidence from China’s Retail Drug Market (with Julie Shi, Fanqi Shi, and Leiqiang Cui).
+- Ecology versus Economy, or Both? Evidence from China’s National Key Ecological Function Areas (with Yuhan Ou, Tingting Xie, and Zenan Wu).
+- Bottom-top Reach and Fiscal Transfers in China (with Mai Wang and Ying Kang).
+
 
 <div align="right">
 
