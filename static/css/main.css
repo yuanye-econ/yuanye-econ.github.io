@@ -108,5 +108,30 @@ section .main-body{
         margin: 0;
     }
 }
+details.abs {
+  display: inline;
+}
+details.abs > summary {
+  display: inline;          /* keeps it on the same line as the link */
+  cursor: pointer;
+  list-style: none;         /* hide default marker (it disappears when inline anyway) */
+}
+details.abs > summary::-webkit-details-marker { display: none; }
 
+/* Custom triangle that rotates when opened */
+details.abs > summary::before {
+  content: "▶ ";
+  font-size: 0.8em;
+}
+details.abs[open] > summary::before {
+  content: "▼ ";
+}
+
+/* Abstract text always starts on its own line */
+details.abs > .abs-text {
+  display: block;
+  margin: 0.5em 0 1em 0;
+  font-size: 0.9em;
+  text-align: justify;
+}
 
