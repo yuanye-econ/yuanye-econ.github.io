@@ -135,3 +135,13 @@ details.abs > .abs-text {
   text-align: justify;
 }
 
+/* NEW: let the citation paragraph and the Abstract toggle share one line */
+li > p:has(+ details.abs) {
+  display: inline;
+}
+
+/* NEW: restore spacing between entries (lost when the <p> became inline) */
+li:has(> details.abs) {
+  margin-bottom: 0.6em;
+}
+
