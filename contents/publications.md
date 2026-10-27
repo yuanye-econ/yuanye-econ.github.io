@@ -31,7 +31,6 @@
 - Ecology versus Economy, or Both? Evidence from China’s National Key Ecological Function Areas (with Yuhan Ou, Tingting Xie, and Zenan Wu),  **R&R**.
 - Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
 - A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
-- Pollution, Health, and Productive Adaptations among Smallholder Farmers in Rural China (with Qunfeng Wu and Yakun Chen).
 - Mass Media and Policy Delivery Efficiency: Evidence From China (with Fan Zhang).
 - Spatial Spillovers of Public Regulation: Evidence from China’s Retail Drug Market (with Julie Shi, Fanqi Shi, and Leiqiang Cui).
 - Bottom-top Reach and Fiscal Transfers in China (with Mai Wang and Ying Kang).
