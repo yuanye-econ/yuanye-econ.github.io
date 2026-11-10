@@ -28,12 +28,11 @@
 ## Working papers
 
 - Be Your Own Doctor: Learning by Doing in Healthcare (with Yajie Wang, Kamhon Kan, and Junjian Yi), **R&R**.
-- From Public Aid to Social Support: Welfare Dynamics After Exiting Anti-Poverty Campaign (with Zhengwen Liu, Yibo Wu, and Chen Zhuang), **R&R**.
 - Ecology versus Economy, or Both? Evidence from China’s National Key Ecological Function Areas (with Yuhan Ou, Tingting Xie, and Zenan Wu),  **R&R**.
-- Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
-- A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
-- Mass Media and Policy Delivery Efficiency: Evidence From China (with Fan Zhang).
 - Spatial Spillovers of Public Regulation: Evidence from China’s Retail Drug Market (with Julie Shi, Fanqi Shi, and Leiqiang Cui).
+- A Story of Fire and Water: Cryptocurrency, Nomad Miners, and the Environmental (with Wenyi Lu and Fan Zhang).
+- Restructuring Tournaments: Theory and Evidence on the Shift to Double-Elimination (with Jiawei Mo, Xuezhu Shi, and Zenan Wu).
+- Mass Media and Policy Delivery Efficiency: Evidence From China (with Fan Zhang).
 - Bottom-top Reach and Fiscal Transfers in China (with Mai Wang and Ying Kang).
 
 
